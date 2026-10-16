@@ -1,0 +1,8 @@
+Assunto de cada e-mail (cole no campo Subject do painel, em Authentication > Email Templates)
+
+confirmation.html  ->  Confirme seu e-mail no Portfy
+recovery.html  ->  Redefina sua senha do Portfy
+magic_link.html  ->  Seu link de acesso ao Portfy
+email_change.html  ->  Confirme seu novo e-mail no Portfy
+invite.html  ->  Você foi convidado para o Portfy
+reauthentication.html  ->  Seu código de confirmação do Portfy
